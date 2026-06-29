@@ -1,0 +1,6 @@
+data/train/
+data/valid/
+data/test/
+models/best.pt
+__pycache__/
+*.pyc
