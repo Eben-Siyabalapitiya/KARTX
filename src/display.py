@@ -15,3 +15,4 @@ def draw_frame(frame, detections):
                     0.5, (0, 255, 0), 2)
 
     return frame
+
