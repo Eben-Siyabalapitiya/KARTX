@@ -6,7 +6,6 @@ from src.cart import update, handle_lost, get_cart
 from src.prices import calculate, PRICES
 from src.display import draw_frame
 
-
 # tkinter window setup
 root = tk.Tk()
 root.title("KART")
